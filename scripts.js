@@ -37,3 +37,5 @@ console.log(total);
 const multiply = (num1, num2) => num1 * num2;
 const result = multiply(5, 10);
 console.log(result);
+
+console.log('testing git to git-hub');
