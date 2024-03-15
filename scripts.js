@@ -40,4 +40,4 @@ console.log(result);
 
 console.log('testing git to git-hub');
 
-console.log('testing stanging branch');
+console.log('testing stanging branch and merging to main branch');
